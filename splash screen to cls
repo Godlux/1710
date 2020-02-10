@@ -1,0 +1,6 @@
+To replace all loading screens with custom loading screen you need:
+
+1. disable default forge screen
+2. disable liteloader
+
+That's all :)
